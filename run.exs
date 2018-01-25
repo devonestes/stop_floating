@@ -1,0 +1,1 @@
+StopFloating.analyze(["example.ex"])
